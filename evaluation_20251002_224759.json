@@ -1,0 +1,17 @@
+{
+  "mean_return": 0.0,
+  "sharpe_proxy": 0.0,
+  "win_rate": 0.0,
+  "top_symbols": [
+    "^DJI",
+    "GOOGL",
+    "^GSPC",
+    "INFY.NS",
+    "MSFT",
+    "TSLA",
+    "RELIANCE.NS",
+    "AAPL",
+    "AMZN",
+    "TCS.NS"
+  ]
+}
