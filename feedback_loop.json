@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-10-10T22:05:54.036082",
+    "symbol": "AAPL",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-10T22:06:23.511020",
+    "symbol": "AAPL",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-12T23:43:28.832644",
+    "symbol": "AAPL",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-13T00:47:39.575186",
+    "symbol": "AAPL",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-13T00:47:53.207427",
+    "symbol": "BTC-USD",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-13T16:03:24.559641",
+    "symbol": "AAPL",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-13T16:03:36.176465",
+    "symbol": "TSLA",
+    "predicted_action": "long",
+    "user_feedback": "incorrect",
+    "applied_reward": -5.0
+  },
+  {
+    "timestamp": "2025-10-14T00:19:32.697827",
+    "symbol": "AAPL",
+    "predicted_action": "long",
+    "user_feedback": "correct",
+    "applied_reward": 5.0
+  },
+  {
+    "timestamp": "2025-10-14T00:19:52.771289",
+    "symbol": "TSLA",
+    "predicted_action": "long",
+    "user_feedback": "incorrect",
+    "applied_reward": -5.0
+  }
+]
